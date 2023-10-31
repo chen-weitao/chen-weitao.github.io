@@ -3,7 +3,6 @@
 
 ### Link
 
-哈哈哈哈哈哈哈哈哈哈哈哈
 Note the relative link starting with a slash before the html file.
 
 The index.md is used to customize the github page's home page, 
